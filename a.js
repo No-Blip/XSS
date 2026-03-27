@@ -1,0 +1,1 @@
+alert(document.cookie + ' | canario=' + window.canario);
